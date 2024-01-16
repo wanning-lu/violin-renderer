@@ -1,0 +1,10 @@
+convert all files from CSV to MIDI
+use Pretty_MIDI to synthesize and test
+
+
+
+build a script to parse through every files
+
+
+
+get started on a simple MLP
