@@ -1,4 +1,4 @@
-name: music-generation
+name: music-gen
 channels:
   - conda-forge
   - pytorch
@@ -12,7 +12,7 @@ dependencies:
   - tqdm=4.64.0
   - scikit-learn=1.0.2
   - pytorch::pytorch=1.11.0
-  - PrettyMIDI=0.2.9
+  - pretty_midi=0.2.9
   - pip:
       - git+https://github.com/salu133445/muspy@main#egg=muspy
       - x-transformers==0.25.9
