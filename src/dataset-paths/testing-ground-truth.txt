@@ -1,0 +1,10 @@
+/bach-violin-dataset/dataset/ground-truth/emil-telmanyi/bwv1004/emil-telmanyi_bwv1004_mov2.csv
+/bach-violin-dataset/dataset/ground-truth/shunske-sato/bwv1002/shunske-sato_bwv1002_mov3.csv
+/bach-violin-dataset/dataset/ground-truth/emil-telmanyi/bwv1002/emil-telmanyi_bwv1002_mov6.csv
+/bach-violin-dataset/dataset/ground-truth/shunske-sato/bwv1006/shunske-sato_bwv1006_mov3.csv
+/bach-violin-dataset/dataset/ground-truth/emil-telmanyi/bwv1003/emil-telmanyi_bwv1003_mov4.csv
+/bach-violin-dataset/dataset/ground-truth/emil-telmanyi/bwv1002/emil-telmanyi_bwv1002_mov1.csv
+/bach-violin-dataset/dataset/ground-truth/karen-gomyo/bwv1006/karen-gomyo_bwv1006_mov4.csv
+/bach-violin-dataset/dataset/ground-truth/john-garner/bwv1002/john-garner_bwv1002_mov2.csv
+/bach-violin-dataset/dataset/ground-truth/john-garner/bwv1002/john-garner_bwv1002_mov6.csv
+/bach-violin-dataset/dataset/ground-truth/yente-lottman/bwv1005/yente-lottman_bwv1005_mov3.csv
